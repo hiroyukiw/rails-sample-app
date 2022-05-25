@@ -17,6 +17,7 @@ gem 'turbolinks'
 # gem "bcrypt", "~> 3.1.7"
 gem "tzinfo-data", platforms: %i[ mingw mswin x64_mingw jruby ]
 gem "bootsnap", require: false
+gem "nokogiri", "1.13.6"
 
 # Use Sass to process CSS
 gem "sassc-rails"

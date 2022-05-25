@@ -318,6 +318,7 @@ DEPENDENCIES
   listen
   minitest
   minitest-reporters
+  nokogiri (= 1.13.6)
   pg
   puma (~> 5.0)
   rails (~> 7.0.3)
