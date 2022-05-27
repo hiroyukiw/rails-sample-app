@@ -11,6 +11,7 @@ gem "stimulus-rails"
 gem "jbuilder"
 gem 'webpacker'
 gem 'turbolinks'
+gem 'minitest-reporters'
 
 # gem "redis", "~> 4.0"
 # gem "kredis"
